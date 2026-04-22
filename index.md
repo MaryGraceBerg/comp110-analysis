@@ -5,9 +5,15 @@ layout: default
 
 # This is a big header
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+# COMP110 Data Analysis: Course Improvement
+## By MaryGrace Berg
 
-## This is a small header
+### My 5 Ideas for Improvement:
+1. **Memory Diagram Workshops:** Weekly sessions for Heap/Stack visualization.
+2. **Industry Speaker Series:** Connecting Python to Data Science careers.
+3. **Small-Group Debugging:** Collaborative lab sessions.
+4. **Data Science Track:** Final projects using real-world CSV data.
+5. **Pre-Lecture Quizzes:** 5-minute ungraded knowledge checks.
 
-This is basic paragraph text.
+### Analysis Result:
+My data analysis showed a **negative correlation** between course pace and student understanding. As pace increases, understanding drops, which proves the need for slower, focused workshops.
